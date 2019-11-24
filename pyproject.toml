@@ -19,7 +19,7 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.6.9"
 aiohttp = "^3.5"
 
 [tool.poetry.dev-dependencies]
